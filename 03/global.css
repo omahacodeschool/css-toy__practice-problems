@@ -1,1 +1,24 @@
 /*font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;*/
+
+h1 {
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #0076FF;
+  width: 390px;
+  height: 40px;
+  margin: 1px 20px 1px 0px;
+  padding: 20px;
+}
+
+p {
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;  color: white;
+  color: white;
+  text-align: center;
+  background-color: #00489C;
+  height: 16px;
+  width: 390px;
+  margin: 0px 20px 20px 0px;
+  padding: 20px;
+}
