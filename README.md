@@ -18,4 +18,4 @@ For all of the exercises, do not make any changes to the HTML except for the fol
 
 No other changes to the HTML in an exercise are allowed.
 
-Each **global.css** file does have a small bit of starter code: The `font-family` declarations that will be needed for that exercise. These are provided, because otherwise it's difficult (and time-wasting) to try to figure out exactly which font is being used on a page.
+Each **global.css** file does have a small bit of starter code: The `font-family` declarations that will be needed for that exercise. These are provided, because otherwise it's difficult (and time-wasting) to try to figure out exactly which font is being used on a page...
