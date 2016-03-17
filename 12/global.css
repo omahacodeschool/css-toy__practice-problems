@@ -1,3 +1,4 @@
+/*Screen Width: 524px*/
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -8,16 +9,17 @@ body {
 
 .box {
   float: left;
-  width: 26%;
-  margin: 10px;
-/*  padding-right: 10px;
-*/}
+  width: 40%;
+  margin: 5px 10px 10px 5px;
+  padding-right: 10px;
+}
 
 .box h4 {
   text-transform: capitalize;
   font-weight: 500;
   font-size: 80%;
   padding-bottom: 5px ;
+  margin-left: 80px;
 }
 
 .box img {
@@ -28,6 +30,7 @@ body {
   font-size: 70%;
   line-height: 1.5em;
   color: #ccc;
+  margin-left: 80px;
 }
 
 
