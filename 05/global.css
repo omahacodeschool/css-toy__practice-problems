@@ -48,7 +48,7 @@ h3{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   background-color: #333333;
-  padding: 27px 0px 0px 20px;
+  padding: 14px 0px 0px 19px;
   text-align: left;
   color: white;
 
@@ -56,9 +56,9 @@ h3{
 
 #m{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   background-color: #333333;
-  padding: 5px 9px 20px 21px;
+  padding: 12px 8px 6px 18px;
   text-align: left;
   color: white;
 }
@@ -67,7 +67,7 @@ h3{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   background-color: #333333;
-  padding: 5px 9px 20px 21px;
+  padding: 0px 9px 0px 19px;
   text-align: left;
   color: white;
 }
@@ -76,7 +76,7 @@ p {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   background-color: #333333;
-  padding: 5px 9px 20px 21px;
+  padding: 4px 7px 0px 20px;
   text-align: left;
   color: white;
 }
@@ -84,8 +84,9 @@ p {
 a:link, a:hover {
     background-color: #000000;
     color: white;
-    padding: 4px 5px;
+    padding: 4px 5px 8px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
+    font-size: 16px;
 }
