@@ -1,5 +1,5 @@
 body.show_goal::after{
-  background-image: url("");
+  background-image: url("screen-shot.png");
 }
 
 /* ------------------------------------------------------- */
@@ -54,11 +54,12 @@ table {
 }
 
 body.show_goal::after{
-  background: url("http://cl.ly/fROg/Screen%20Shot%202016-03-17%20at%207.49.37%20AM.png");
+/*  background: url("http://cl.ly/fROg/Screen%20Shot%202016-03-17%20at%207.49.37%20AM.png");*/
+/*  background: url("screen_shot.png");*/
   background-repeat: no-repeat;
   content: " ";
   height: 800px;
-  width: 430px;
+  width: 1200px;
   position: absolute;
   top: 0;
   left: 0;
