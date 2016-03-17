@@ -18,15 +18,14 @@ h1
   font-family: "Arial";
   text-transform: uppercase;
   font-weight: bold;
-  background-color: blue;
   padding: 20px;
-  text-decoration-color: white;
-
+  background-color: #0058FF;
 }
 
 h1, p
 {
   font-family: "Arial";
   text-align: center;
+  padding: 20px;
 
 }
