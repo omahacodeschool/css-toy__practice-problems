@@ -4,6 +4,9 @@ h1 {
     color: white;
     padding: 20px;
     background-color: #1069FA;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 p {
@@ -11,4 +14,6 @@ p {
   color: white;
   padding: 20px;
   background-color: #D5D5D5;  
+  margin-right: 20px;
+  margin-left: 20px;
 }
