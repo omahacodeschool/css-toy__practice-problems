@@ -1,1 +1,47 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+img {
+  height: 70px;
+  width: 70px;
+  padding-right: 10px;
+  border-radius: 3px;
+}
+
+#images_box {
+  padding: 10px 0 0 10px;
+}
+
+#images_box div {
+  width: 200px;
+}
+
+#left_column {
+  margin-right: 30px;
+}
+
+.lede {
+  font-weight: bold;
+  line-height: 15px;
+  font-size: 12px;
+  margin-bottom: 3px;
+}
+
+.source {
+  font-size: 12px;
+}
+
+.float_left {
+  float: left;
+}
+
+.float_right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}

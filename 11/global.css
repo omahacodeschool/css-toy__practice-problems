@@ -1,1 +1,24 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#search_box {
+  padding: 5px;
+}
+
+#search_box img {
+  float:left;
+}
+
+#search_box span {
+  float: left;
+  padding: 4px 0px 0px 5px;
+}
+
+.icon_text {
+  font-size: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
