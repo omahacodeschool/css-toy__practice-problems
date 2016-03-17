@@ -6,15 +6,22 @@ Type CSS Selector here
   Style goes here
 }
 */
+body{
+  margin: 20px;
+  font-family: "Helvetica Neue";
+  text-align: center;
+
+}
 
 h1
 {
   font-family: "Arial";
   text-transform: uppercase;
   font-weight: bold;
-  text-align: center;
-  line-height: 600%;
   background-color: blue;
+  padding: 20px;
+  text-decoration-color: white;
+
 }
 
 h1, p
