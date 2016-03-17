@@ -1,1 +1,17 @@
-/* Guess the font. Just get close--doesn't have to be perfect. */
+
+body {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 70%;
+  font-weight: 900;
+  margin: 5px;
+}
+
+div {
+}
+
+img {
+}
+
+.icon_text {
+}
