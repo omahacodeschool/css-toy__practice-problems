@@ -28,3 +28,23 @@ p {
   border: solid white;
   border-width: 19px 48px 19px 19px;
 }
+
+h2 {
+    color: black;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: 600;
+    border: solid white;
+    border-width: 0px 48px 0px 19px;
+}
+
+ul {
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 200%;
+    list-style-type: circle;
+    border: solid white;
+    border-width: 0px 48px 19px 19px;
+}
