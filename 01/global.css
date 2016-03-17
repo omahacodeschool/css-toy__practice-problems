@@ -5,4 +5,21 @@ Type CSS Selector here
 {
   Style goes here
 }
-/*
+*/
+
+h1
+{
+  font-family: "Arial";
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  line-height: 600%;
+  background-color: blue;
+}
+
+h1, p
+{
+  font-family: "Arial";
+  text-align: center;
+
+}
