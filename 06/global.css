@@ -44,6 +44,7 @@ p {
   margin-left: 20px;
   font-size: 75%;
   margin-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .festival a {
@@ -51,11 +52,12 @@ p {
   text-decoration: none;
   color: white;
   text-transform: uppercase;
-  font-size: 150%;
+  font-size: 125%;
 }
 
 .month {
   margin-top: 20px;
+  font-size: 110%;
 }
 
 
