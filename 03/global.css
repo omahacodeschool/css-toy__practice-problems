@@ -1,1 +1,20 @@
 /*font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;*/
+
+h1 {
+    color: white;
+    background: #53B1F5;
+    text-align: center;
+    font-family: "book antiqua";
+    text-decoration: underline;
+    font-size: 40px;
+    padding: 20px;
+    margin-bottom: 1px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    background: #0174DF;
+    padding: 20px;
+    font-family: "book antiqua";
+}

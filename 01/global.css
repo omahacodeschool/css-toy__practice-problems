@@ -1,3 +1,23 @@
 /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 
 /*console should be at 430px while working*/
+
+h1 {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: helvetica;
+  background: blue;
+  padding: 20px;
+  margin: 20px;
+  margin-bottom: 0;
+}
+
+p {
+  color: #424242;
+  background: silver;
+  text-align: center;
+  font-family: helvetica;
+  padding: 20px;
+  margin: 0px 20px;
+}
