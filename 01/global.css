@@ -1,4 +1,20 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+}
 
+h1 {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  padding:18px;
+  background-color: blue;
+}
+
+p {
+  margin-top:20px;
+  margin-bottom:20px;
 }
