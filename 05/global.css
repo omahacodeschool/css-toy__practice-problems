@@ -10,7 +10,9 @@ h1 {
   font-size: 30px;
   background-color: purple;
   text-align: center;
-  padding: 20px;
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   border: 1px;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -24,34 +26,41 @@ h1 {
 h2 {
 
   color: white;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: none;
   background-color: #332F2F;
   text-align: center;
   text-decoration: ;
-  padding-top: 10px;
-
+  padding-top: 20px;
+  padding-left: 15px;
   border: 0px;
   margin-top: 0px;
-  margin-bottom: 1px;
+  margin-bottom: 0px;
   margin-left: 0px;
-  margin-right: 0px;
+  margin-right: 1px;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+#intro {
+  color: white;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+}
+
 p {
 
-  color: black;
-  text-transform: bold;
-  font-size: 16px;
-  font-weight: bold;
+  color: white;
+  text-transform: ;
+  font-size: 14px;
+  font-weight: ;
   background-color: #332F2F;
   text-align: left;
   padding-left: 20px;
   padding-right:15px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
@@ -64,20 +73,22 @@ p {
 h3 {
 
   color: white;
-  font-size: 18px;
- 
+  font-size: 22px;
+  font-weight: bolder;
   background-color: #332F2F;
   text-align: left;
   text-decoration: underline;
   text-transform: uppercase;
-  padding: 2px;
+  padding-top: 20px;
+  padding-bottom: 16px;
+  padding-left: 1px;
   border: 0px;
   margin-top: 0px;
-  margin-bottom: 1px;
+  margin-bottom: 0px;
   margin-left: 20px;
   margin-right: 0px;
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 }
 
 a {
@@ -89,10 +100,12 @@ a {
   text-align: left;
   text-transform: uppercase;
   text-decoration: none;
-  padding: 0px;
+  padding-top: 0px;
+  padding-bottom: 1px;
+
   border: 0px;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
   margin-left: 0px;
   margin-right: 0px;
   font-family: Georgia, Times, "Times New Roman", serif;
