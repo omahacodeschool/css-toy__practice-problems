@@ -2,7 +2,7 @@
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 
 body {
-  /*color: white;*/
+  color: white;*/
   /*^put this back in when it's easier to see lolz^*/
   margin: 0px 28px 0px 0px; background-color: white;
 }
@@ -32,31 +32,37 @@ h2 {
 #intro {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 18px;
-    font-weight: 600;
+    /*font-weight: 600;*/
     letter-spacing: -1.25px;
     padding: 0px 40px 19px 18px;
     background-color: #262626;
     border-bottom: solid white;
     border-width: 1px;
+    margin-bottom: 19px;
 }
 /*h3 are the months*/
 h3{
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
   text-transform: uppercase;
-  font-size: 30px;
+  font-size: 22px;
   text-decoration: underline;
-  margin-left: 19px;
+  padding: 0px 40px 2px 18px;
+  background-color: #262626;
 
 }
 /*p are the festival links AND the city/dates AND the intro paragraph*/
 p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: left;
-  /*border-left: 19px; background-color: #262626;*/
+  font-size: 15px;
+  padding: 0px 40px 28px 18px;
+  background-color: #262626;
 }
 /*a are the links to the festivals*/
 a {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-/*  text-transform: uppercase;
-*//*  font-size: 30px;
-*/}
+  text-transform: uppercase;
+  font-size: 17px;
+  background-color: black
+}
 
