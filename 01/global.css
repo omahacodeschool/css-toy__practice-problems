@@ -10,23 +10,19 @@ body{
   margin: 20px;
   font-family: "Helvetica Neue";
   text-align: center;
-
 }
 
-h1
-{
-  font-family: "Arial";
+h1{
+  padding: 20px;
+  font-family: "Helvetica";
   text-transform: uppercase;
-  font-weight: bold;
-  padding: 20px;
-  background-color: #0058FF;
+  font-weight: 900;
   color: white;
+  background-color: #0058FF;
 }
 
-h1, p
-{
-  font-family: "Arial";
-  text-align: center;
+h1, p{
   padding: 20px;
-
+  font-family: "Arial"
+  background-color: #D5D5D5;
 }
