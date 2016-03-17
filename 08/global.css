@@ -19,8 +19,7 @@ h1{
 #intro {
   background: #333333;
   border-bottom: 1px solid white;
-  padding-bottom: 20px
-  margin-left: 20px;
+  padding-bottom: 19px;
 }
 
 #intro h2 {
@@ -32,53 +31,57 @@ h1{
 
 #intro p {
   margin-left: 20px;
-  padding-bottom: 20px;
 }
 
 .month {
   background: #333333;
   border-bottom: 1px solid white;
   padding-top: 20px;
-  padding-bottom: 20px
-  font-size: 110%;
+    padding-bottom: 25px;
+
 }
 
 .month h3 {
   margin-left: 20px;
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
-  font-size: 125%;
+  font-size: 135%;
   font-weight: 700;
   text-decoration: underline;
   text-transform: uppercase;
-  padding-bottom: 10px;
+  padding-bottom: 3px;
 }
 
 .festival {
   font-weight:300;
   background: #333333;
   margin-left: 20px;
-  padding-bottom: 20px;
   font-size: 90%;
   padding-top: 10px;
+  margin-right: 20px;
 }
 
 .festival a {
+  display: block;
   background: black;
   text-decoration: none;
   color: white;
   text-transform: uppercase;
-  font-size: 115%;
+  font-size: 110%;
+  padding: 5px;
 }
 
 .details {
+  display: inline-block;
   color: black;
 }
 
-.details .location {
+.location {
+  
   background: white;
   font-weight: 500;
 }
 
-.details .dates {
+.dates {
+  
   background: #CCCCCC;
 }

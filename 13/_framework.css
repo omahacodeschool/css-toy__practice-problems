@@ -54,7 +54,7 @@ table {
 }
 
 body.show_goal::after{
-  background: url("http://cl.ly/fROg/Screen%20Shot%202016-03-17%20at%207.49.37%20AM.png");
+  background: url("unspecified.jpg");
   background-repeat: no-repeat;
   content: " ";
   height: 800px;
