@@ -1,29 +1,48 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 
-/*h1 is the purple header*/
 body {
   /*color: white;*/
   /*^put this back in when it's easier to see lolz^*/
 }
-h1{
-  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
-
+/*h1 is the purple header*/
+h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    border-bottom: solid hotpink;
+    border-width: 1px;
+    margin: 0px 17px 0px 0px;
+    background-color: #66296A;
 }
 /*h2 is the "festival diary"*/
 h2 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+  background-color: #262626;
 }
 /*h3 are the months*/
 h3{
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  text-transform: uppercase;
+  font-size: 30px;
+  text-decoration: underline;
 
 }
 /*p are the festival links AND the city/dates AND the "here are some..."*/
 p {
+  text-align: left;
+  font-size: 30px;
 }
 /*a are the links to the festivals*/
 a {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 30px;
+  padding: 10px;
+  background-color: black;
 }
 
