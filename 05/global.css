@@ -4,7 +4,7 @@ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 body {
   /*color: white;*/
   /*^put this back in when it's easier to see lolz^*/
-  margin: 0px 17px 0px 0px;
+  margin: 0px 28px 0px 0px; background-color: white;
 }
 /*h1 is the purple header*/
 h1 {
@@ -18,12 +18,23 @@ h1 {
 }
 /*h2 is the "festival diary"*/
 h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  font-size: 21px;
+  font-weight: 800;
+  letter-spacing: -1.25px;
+  background-color: #262626;
+  padding: 19px 40px 7px 40px;
+  /*padding: 19px 40px 6px 40px;
+  background-color: #262626;*/
+}
+/*intro paragraph, lives with the festival diary*/
+#intro {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-align: center;
-    font-size: 21px;
-    font-weight: 800;
+    font-size: 18px;
+    font-weight: 600;
     letter-spacing: -1.25px;
-    padding: 19px 40px 62px 40px;
+    padding: 0px 40px 19px 18px;
     background-color: #262626;
     border-bottom: solid white;
     border-width: 1px;
@@ -34,19 +45,18 @@ h3{
   text-transform: uppercase;
   font-size: 30px;
   text-decoration: underline;
+  margin-left: 19px;
 
 }
-/*p are the festival links AND the city/dates AND the "here are some..."*/
+/*p are the festival links AND the city/dates AND the intro paragraph*/
 p {
   text-align: left;
-  font-size: 30px;
+  /*border-left: 19px; background-color: #262626;*/
 }
 /*a are the links to the festivals*/
 a {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-  font-size: 30px;
-  padding: 10px;
-  background-color: black;
-}
+/*  text-transform: uppercase;
+*//*  font-size: 30px;
+*/}
 
