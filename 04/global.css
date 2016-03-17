@@ -1,2 +1,40 @@
 /*font-family: Georgia, Times, "Times New Roman", serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+
+h1 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  color: #D56E00;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  
+  border-bottom: solid 2px;
+  height: 49px;
+  width: 389px;
+  
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+  background-color: #EEEEEE ;
+  margin: 30px 20px 20px 20px;
+  padding: 30px;
+  border: 0;
+  height: 20px;
+  width: 330px;
+}
+
+h2 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 12px;
+  text-decoration: underline;
+
+}
+
+ul {
+  list-style-type: circle;
+}
+
