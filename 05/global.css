@@ -4,6 +4,7 @@ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 body {
   /*color: white;*/
   /*^put this back in when it's easier to see lolz^*/
+  margin: 0px 17px 0px 0px;
 }
 /*h1 is the purple header*/
 h1 {
@@ -13,16 +14,19 @@ h1 {
     padding: 20px;
     border-bottom: solid hotpink;
     border-width: 1px;
-    margin: 0px 17px 0px 0px;
     background-color: #66296A;
 }
 /*h2 is the "festival diary"*/
 h2 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-align: center;
-  font-size: 30px;
-  padding: 20px;
-  background-color: #262626;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 800;
+    letter-spacing: -1.25px;
+    padding: 19px 40px 62px 40px;
+    background-color: #262626;
+    border-bottom: solid white;
+    border-width: 1px;
 }
 /*h3 are the months*/
 h3{
