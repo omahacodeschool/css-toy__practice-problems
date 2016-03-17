@@ -1,1 +1,30 @@
 /*font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;*/
+#header{
+      font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+    text-decoration: underline;
+    border: 0;
+    font-size: 40px;
+    vertical-align: baseline;
+    padding-left: 99px;
+    padding-top: 20px;
+    padding-bottom: 21px;
+    color: white;
+    background-color: #156AFA;
+
+  
+
+}
+#paragraph{
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  border: 0;
+  padding-left: 25px;
+  font-size: 14px;
+
+  vertical-align: baseline;   
+  padding-left: 128px;
+  padding-top: 20px;
+      padding-bottom: 20px;
+  color: white;
+  background-color:#0C3B87;
+
+}
