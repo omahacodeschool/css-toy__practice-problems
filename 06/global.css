@@ -38,10 +38,13 @@ h1 {
 
 .festival{
   padding-left: 20px;
+  padding-top: 20px;
+
 }
 
 .month{
   background: #333333;
+  padding-top: 20px;
 }
 
 .month h3{
@@ -51,13 +54,12 @@ h1 {
   text-decoration: underline;
   text-transform: uppercase;
   padding-left: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
 }
 
 .month p{
   line-height: 12px;
   font-size: 14px;
+  color: green;
 }
 
 a {
