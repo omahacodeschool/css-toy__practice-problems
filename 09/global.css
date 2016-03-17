@@ -1,11 +1,8 @@
 /* Actual font is unknown. Use this--it's close enough: */
 /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-body {
-  padding-top: 14px;
-  padding-left: 10px;
-}
 
 a {
+  float: left;
   margin: 10px 5px 0px 0px;
   border-radius: 5px;
   padding: 8px 10px 10px 10px;
