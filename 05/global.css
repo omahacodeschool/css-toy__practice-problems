@@ -1,2 +1,23 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+/*h1 is the purple header*/
+h1{
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  
+}
+/*h2 is the "festical diary"*/
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/*h3 are the months*/
+h3{
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+}
+/*p are the festival links AND the city/dates AND the "here are some..."*/
+p {
+}
+/*a are the links to the festivals*/
+a {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
