@@ -11,7 +11,15 @@ div {
 }
 
 img {
+  float: left;
 }
 
 .icon_text {
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+
+.clear {
+  clear: both;
 }
