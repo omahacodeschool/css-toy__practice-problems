@@ -15,7 +15,8 @@ img {
 }
 
 .icon_text {
-  margin-top: 15px;
+  position: relative
+  top: 20px;
   margin-left: 5px;
 }
 
