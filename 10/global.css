@@ -4,14 +4,23 @@ body {
 
 .box {
   float: left;
-
+  width: 26%;
+  margin: 10px;
+  padding-right: 10px;
+  border-right: 1px solid #CCCCCC;
 }
 
 .box h4 {
   font-weight: 500;
+  padding-bottom: 5px ;
 }
 
 .blurb {
-  font-size: 75%;
+  font-size: 70%;
+  line-height: 1.5em;
+}
+
+.clear {
   clear: both;
 }
+
