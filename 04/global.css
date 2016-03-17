@@ -44,7 +44,17 @@ ul {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px;
   line-height: 125%;
-  list-style-type: circle;
+  list-style-type: disc;
   border: solid white;
-  border-width: 5px 48px 0px 39px;
+  border-width: 5px 48px 17px 39px;
+}
+
+ol {
+  color: black;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 125%;
+  list-style-type: decimal;
+  border: solid white;
+  border-width: 5px 48px 17px 39px;
 }
