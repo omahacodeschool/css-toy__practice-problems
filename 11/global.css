@@ -1,1 +1,15 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+div{
+}
+img{
+  float:left;
+  padding: 5px;
+}
+.icon_text{
+  font-family: "Avenir Next Medium", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 10px;
+  display: inline-block;
+  padding-top: 9px;
+}
