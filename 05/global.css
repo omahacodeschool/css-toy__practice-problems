@@ -40,22 +40,22 @@ h3 {
   border-bottom: 1px solid white;
   padding-bottom: 20px;
   background: #333333;
+  padding-top: 5px;
 }
 
 p {
   padding-left: 20px;
-  padding-top: 5px;
   background: #333333;
   padding-right: 25px;
 }
 
 a {
   display: inline-block;
-  margin-top: 10px;
+  margin-top: 13px;
   background: black;
   padding: 3px;
   text-decoration: none;
-  color: white;
+  color: yellow;
   text-transform: uppercase;
 }
 
@@ -63,6 +63,5 @@ a {
   background: #333333;
   color: yellow;
   font-size: 14px;
-  padding-left: 20px;
   
 }
