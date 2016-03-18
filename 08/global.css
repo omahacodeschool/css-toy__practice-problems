@@ -34,7 +34,7 @@ h2{
 /*actually a div class that includes month/link/info of all festivals*/
 .month{
   color: white;
-  padding: 20px 20px 0 20px;
+  padding: 20px;
   background-color: #262626;
   border-bottom: solid white;
   border-width: 1px;
@@ -51,16 +51,23 @@ h3{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   padding-top: 15px;
-  padding-bottom: 21px;
+}
+
+.details{
+  padding: 1px 3px;
+  display: inline-block;
 }
 
 .location{
-  background-color: white;
   color: black;
   font-weight: 500;
-  padding: 1px 3px;
-  display: inline-block;
-
+  background-color: white;
+  padding: 3px 5px;
+}
+.dates{
+  background-color: #C1C1C1;
+  color: black;
+  padding: 3px 5px;
 }
 
 a{
@@ -70,7 +77,6 @@ a{
   text-decoration: none;
   background-color: black;
   padding: 6px;
-  margin-bottom: 4px;
   display: block;
 }
 
