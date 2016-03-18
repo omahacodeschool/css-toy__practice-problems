@@ -13,7 +13,7 @@ h1{
   font-weight: bold;
   font-size: 30px;
   padding: 20px;
-  border-bottom: 1px solid #CC6CC3;
+  border-bottom: 1px solid #B45DAE;
 }
 /*Festival Diary subheader*/
 h2{
@@ -26,7 +26,7 @@ h2{
   font-size: 16px;
   padding: 8px 20px 20px 20px;
   border-left: 1px solid red;
-  border-bottom: 1px solid #FFFFFF;
+  border-bottom: 1px solid #CBCBCB;
   margin: 0;
 }
 /*Months*/

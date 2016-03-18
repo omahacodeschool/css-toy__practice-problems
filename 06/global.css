@@ -1,9 +1,10 @@
+/*Overarching Body*/
 body {
   background-color: #323232;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
 }
-
+/*Film FOlk header*/
 h1 {
   background-color: #7F3A7D;
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
@@ -12,23 +13,23 @@ h1 {
   font-weight: bold;
   font-size: 30px;
   padding: 20px;
-  border-bottom: 1px solid #CC6CC3;
+  border-bottom: 1px solid #B45DAE;
 }
-
+/*div Intro, Festival Diary subheader*/
 #intro h2 {
   text-align: center;
   font-size: 20px;
   padding-top: 20px;  
 }
-
+/*div Intro, paragraph*/
 #intro p {
   font-size: 16px;
   padding: 8px 20px 20px 20px;
   border-left: 1px solid red;
-  border-bottom: 1px solid #FFFFFF;
+  border-bottom: 1px solid #CBCBCB;
   margin: 0;
 }
-
+/*div Month, Month subheader*/
 div.month h3 {
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
   color: #FFFFFF;
@@ -36,22 +37,23 @@ div.month h3 {
   font-size: 22px;
   text-transform: uppercase;
   text-decoration: underline;
-  margin: 20px;
+  padding: 22px 20px 0 20px;
 }
-
+/*div Festival, overarching*/
 div.festival {
   font-size: 14px;
-  margin: 20px;
+  padding: 13px 20px 0 20px;
 }
-
+/*div Festival, title links*/
 div.festival a {
   background-color: #000000;
   color: #FFFFFF;
   font-size: 16px;
   text-transform: uppercase;
   text-decoration: none;
-  padding: 2px;
-  margin-bottom: 10px;
+  padding: 4px;
+  margin-bottom: 3px;
+  display: inline-block;
 }
 
 
