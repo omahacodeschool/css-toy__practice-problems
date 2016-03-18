@@ -2,21 +2,18 @@
 /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 
 
-.button_container {
+
+a{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #6288A5;
   color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  font-weight: bold;
   float: left;
-  padding: 20px;
-  border: red solid 5px;
-}
-
-
-a:link {
-    background-color: blue;
-    color: white;
-    padding: 4px 5px 8px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+  padding: 10px;
+  margin-left: 11px;
+  margin-top: 9px;
+  border-radius: 3px;
 }
