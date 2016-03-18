@@ -1,3 +1,49 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 
+h1 {
+  border-bottom: 1px solid #AD03A3;
+  padding: 20px 0 20px 0;
+  text-align: center;
+  background-color: #720D6B;
+  color: #fff;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+}
+
+h2 {
+  padding: 20px 0 9px 0;
+  text-align: center;
+  background-color: #262626;
+  color: #fff;
+  font-size: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#intro {
+  padding: 0 1px 20px 20px;
+  border-bottom: 1px solid #9A9A9A;
+}
+
+h3 {
+  padding: 0 0 0 20px;
+  background-color: #262626;
+  color: #fff;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p {
+  color: #fff;  
+  background-color: #262626;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  padding: 1px;
+  background-color: #000;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
