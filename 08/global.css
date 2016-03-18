@@ -9,7 +9,6 @@ body {
 h1 {
   background-color: #7F3A7D;
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
-  color: #FFFFFF;
   text-align: center;
   font-weight: bold;
   font-size: 30px;
@@ -32,13 +31,12 @@ h1 {
 }
 /*div Class Month, parent*/
 div.month {
-  border-bottom: 5px solid green;
-  margin: 20px;
+  border-bottom: 1px solid #CBCBCB;
+  padding: 20px;
 }
 /*div Class Month, h3*/
 div.month h3 {
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
-  color: #FFFFFF;
   font-weight: bold;
   font-size: 22px;
   text-transform: uppercase;
@@ -46,7 +44,6 @@ div.month h3 {
 }
 /*div Class Festival, parent*/
 div.festival {
-  font-size: 14px;
 }
 /*div Class Festival, a*/
 div.festival a {
@@ -61,19 +58,20 @@ div.festival a {
 }
 /*div Class Details, parent / child (of Class Festival)*/
 div.details {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #000000;
+  color: #323232;
   font-size: 14px;
 }
-/*div Class Location, child (of Festival >> Details)*/
+/*div Class Location, child (of Class Festival >> Details)*/
 div.location {
   background-color: #FFFFFF;
   font-weight: bold;
   padding: 1px;
+  margin-bottom: 1px;
 }
-/*div Class Dates, child (of Festival >> Details)*/
+/*div Class Dates, child (of Class Festival >> Details)*/
 div.dates {
   background-color: #C1C1C1;
+  padding: 1px;
 }
 
 
