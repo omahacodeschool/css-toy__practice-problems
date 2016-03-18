@@ -1,16 +1,20 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-
+/**/
+/*h1 = film folks header*/
 h1 {
-    color: white;
-    text-align: center;
-    padding: 27px;
-    border-bottom: solid #A840AE;
-    border-width: 1px;
-    background-color: #66296A;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  color: white;
+  font-size: 22px;
+  text-align: center;
+  padding: 27px;
+  border-bottom: solid #A840AE;
+  border-width: 1px;
+  background-color: #66296A;
 }
 
 #intro {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
   padding: 20px;
   background-color: #262626;
@@ -31,11 +35,13 @@ h2{
 }
 /*just the month header itself*/
 h3{
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
   text-decoration: underline;
   text-transform: uppercase;
 }
 
 .festival{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding-top: 15px
 }
 
