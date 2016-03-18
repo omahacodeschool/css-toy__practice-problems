@@ -1,1 +1,22 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+
+img{
+  width: 75px;
+  height: 75px;
+  border-radius: 5px;
+  margin-left: 9px;
+  margin-top: 9px;
+}
+
+.icon_text {
+  display: inline-block;
+  font-size: 14px;
+  color: blue;
+  width: 140px;
+  padding-left: 10px;
+  margin-top: 10px;
+}
+
+img.second-child {
+  float: right;
+}
