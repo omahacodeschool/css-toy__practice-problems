@@ -1,2 +1,87 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+
+body h1, h3 {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+}
+
+.festival, p, h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: #85277D;
+    padding: 20px;
+    padding-bottom: 19px;
+    font-size: 23pt;
+    color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #C839BC;
+
+}
+
+h2, div#intro {
+  color: white;
+
+}
+
+h2 {
+    font-size: 15pt;
+    padding-top: 19px;
+    text-align: center;
+}
+
+#intro p {
+    padding-bottom: 20px;
+    padding-right: 15px;
+    padding-top: 8px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCCCCC; 
+    border-bottom-width: 1px;
+
+}
+
+.festival, h2, h3, #intro {
+    background-color: #333333;
+
+}
+
+
+.festival, h3, #intro p {
+    padding-left: 20px;
+
+}
+
+.month h3 {
+  padding-top: 22px;
+  font-size: 18pt;
+  text-transform: uppercase;
+  color: white;
+  text-decoration: underline;
+}
+
+.festival a {
+    text-transform: uppercase;
+    color: white;
+    background-color: #000000;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 12pt;
+    line-height: 10px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-top: 17px;
+}
+
+ .festival {
+  color: white;
+  font-size: 10.5pt;
+  line-height: 15px;
+}
+/*.multiple a {
+  margin-top: 15px;
+}*/
