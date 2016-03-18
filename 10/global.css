@@ -1,1 +1,25 @@
 /* Actual font is unknown. Use any from past assignments. */
+
+.box{
+  float:left;
+  padding: 0 10px;
+  width: 132px;
+  margin-top: 10px;
+  margin-left: 5px;
+  border-left: solid black 1px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 12px;
+  font-size: 12px;
+}
+
+h4{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding-bottom: 5px;
+}
+
+.blurb{
+  padding-top: 4px;
+  line-height: 14px;
+}

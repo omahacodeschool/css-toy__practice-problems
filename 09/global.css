@@ -1,2 +1,19 @@
 /* Actual font is unknown. Use this--it's close enough: */
 /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+
+
+a{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #6288A5;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  font-weight: bold;
+  float: left;
+  padding: 10px;
+  margin-left: 11px;
+  margin-top: 9px;
+  border-radius: 3px;
+}
