@@ -1,7 +1,4 @@
 
-.left_stuff{
-  float: left;
-}
 img{
   height: 70px;
   width: 70px;
@@ -11,18 +8,16 @@ img{
 #right_image{
   margin-left: 30px;
 }
-.clear{
-  clear:both;
-}
-p{
+
+.text{
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
   font-size: 12px;
   font-weight: bold;
-  width: 120px;
+  width: 80px;
   float: left;
   margin: 10px 0 0 0;
 }
-.small_text{
+.line_2{
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
   font-size: 10px;
   font-weight: normal;
