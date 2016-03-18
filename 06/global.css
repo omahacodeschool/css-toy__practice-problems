@@ -1,4 +1,4 @@
-/*Overarching Body*/
+/*Body, parent*/
 body {
   background-color: #323232;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -39,7 +39,7 @@ div.month h3 {
   text-decoration: underline;
   padding: 22px 20px 0 20px;
 }
-/*div Festival, overarching*/
+/*div Festival, parent*/
 div.festival {
   font-size: 14px;
   padding: 13px 20px 0 20px;
