@@ -1,2 +1,26 @@
 /* Actual font is unknown. Use this--it's close enough: */
 /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+
+/*here I am commenting my way along. First I need to get the buttons looking right then I will worry about putting them side by side. I hope that is the right order.*/
+
+.button_container {
+
+  color: white;
+  font-size: ;
+  background-color: blue;
+  border-radius: 5px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  
+
+
+}
+
+
+
+
+
