@@ -12,7 +12,6 @@ h1 {
 }
 
 #intro {
-  border-bottom: 1px solid #9A9A9A;
   background-color: #262626;
   color: #fff;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -29,14 +28,13 @@ h1 {
 }
 
 .month {
-  border-bottom: 1px solid #9A9A9A;
-  padding: 10px 0 22px 20px;
+  border-top: 1px solid #9A9A9A;
+  padding: 19px 0 19px 20px;
   background-color: #262626;
   color: #fff;
 }
 
 .month h3 {
-  padding: 10px 0 0 0;
   text-decoration: underline;
   text-transform: uppercase;
   font-size: 22px;
@@ -50,8 +48,8 @@ h1 {
 
 .festival a {
   display: block;
-  margin: 0 0 0 0;
-  padding: 1px;
+  margin: 16px 20px 0 0;
+  padding: 2px;
   background-color: #000;
   color: #fff;
   text-decoration: none;
@@ -61,16 +59,20 @@ h1 {
 
 .details {
   display: inline-block;
-
 }
 
 .location {
+  margin: 3px 0 0 0;
+  padding: 1px;
   display: block;
   background-color: #fff;
   color: #000;
+  font-weight: bold;
+  font-size: 14px;
 }
 
 .dates {
+  padding: 1px;
   display: block;
   background-color: #C1C1C1;
   color: #000;
