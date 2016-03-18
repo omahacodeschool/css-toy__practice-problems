@@ -1,2 +1,38 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+h1{
+  background: #7C1488;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 32px;
+  color: white;
+  border-bottom: 1px solid #D941DD;
+}
+
+h2{
+  background: #323232;
+  color: white;
+  padding: 20px 20px 0px 20px;
+  text-align: center;
+}
+
+#intro{
+  background: #323232;
+  color: white;
+  padding: 10px 20px 20px 20px;
+  border-bottom: 1px solid white;
+}
+
+h3{
+  background: #323232;
+  color: white;
+  padding: 20px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+
+
+

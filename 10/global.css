@@ -1,1 +1,25 @@
 /* Actual font is unknown. Use any from past assignments. */
+
+body{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.button {
+  background: #5080A0;
+  margin-left: 10px;
+  margin-top: 10px; 
+  border-radius: 4px;
+}
+
+a[href^="#"] {
+  float:left;
+  font-weight: bold;
+  font-size: 10px;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
