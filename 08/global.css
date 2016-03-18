@@ -50,7 +50,7 @@ h1 {
 
 .festival a {
   display: block;
-  margin: 16px 0 4px 0;
+  margin: 0 0 0 0;
   padding: 1px;
   background-color: #000;
   color: #fff;
@@ -59,8 +59,18 @@ h1 {
   font-size: 16px;
 }
 
+.details {
+
+}
+
 .location {
   display: inline-block;
   background-color: #fff;
+  color: #000;
+}
+
+.dates {
+  display: inline-block;
+  background-color: #C1C1C1;
   color: #000;
 }
