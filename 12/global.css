@@ -17,6 +17,7 @@ img{
   margin-top: 10px;
 }
 
-img.second-child {
-  float: right;
+#story_one {
+  float: left;
 }
+
