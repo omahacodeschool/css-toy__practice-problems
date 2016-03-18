@@ -1,1 +1,12 @@
 /* Actual font is unknown. Use any from past assignments. */
+
+.box {
+  margin-top: 10px;
+  margin-left: 10px;
+  float: left;
+  display: inline-block;
+  width: 20%;
+
+
+}
+
