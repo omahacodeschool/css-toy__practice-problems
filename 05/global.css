@@ -23,27 +23,35 @@ h2 {
 #intro {
   padding: 0 1px 20px 20px;
   border-bottom: 1px solid #9A9A9A;
+  font-size: 16px;
 }
 
 h3 {
-  padding: 0 0 0 20px;
+  padding: 20px 0 0 20px;
   background-color: #262626;
   color: #fff;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 }
 
 p {
+  padding: 0 0 0 20px;
   color: #fff;  
   background-color: #262626;
+  font-size: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 a {
+  display: inline-block;
+  margin: 16px 0 7px 0;
   padding: 1px;
   background-color: #000;
   text-decoration: none;
+  text-transform: uppercase;
   color: #fff;
+  font-size: 16px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
