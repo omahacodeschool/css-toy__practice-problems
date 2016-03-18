@@ -16,34 +16,33 @@ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 }
 
 #header_description {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-            padding: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 20px;
     margin: 20px;
     background-color: #F2F2F2;
-        letter-spacing: .5px;
+    letter-spacing: .5px;
 }
 #ingredient_header{
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
- 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-left: 20px;
     font-size: 22px;
     text-decoration: underline;
     margin-top: 20px;
     font-weight: bold;
-  font-family: Georgia, Times, "Times New Roman", serif;
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #ingredients{
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-top: 9px;
     padding-left: 40px;
     list-style-type: square;
-  font-family: Georgia, Times, "Times New Roman", serif;
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #method_header{
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 20px;
     letter-spacing: 2px;
     padding-top: 30px;
@@ -51,10 +50,10 @@ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-decoration: underline;
 }
 #method{
-          font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 18px;
     padding-top: 10px;
     padding-left: 40px;
     letter-spacing: -1px;
-        list-style-type: decimal;
+    list-style-type: decimal;
 }

@@ -1,2 +1,44 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+h1{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-left: 140px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    letter-spacing: -2.7px;
+    font-weight: bold;
+    color: red;
+    border-bottom-color: red;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+}
+h2{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: red;
+    padding-left: 135px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+h3{
+
+}
+#intro{
+    
+}
+
+}
+#month{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+}
+#here{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body{
+      margin-left: 20px;
+}
+.month{
+
+}

@@ -1,5 +1,5 @@
 # CSS Exercises
-
+ id="intro"
 Each exercise contains some starter HTML and a blank **global.css** file for you to type the CSS for that exercise.
 
 There is also a file **_framework.css**, which you should not edit. It's some necessary styling to get the exercises set up, including a graphic which is that exercise's goal. That way, you can compare the evolution of your CSS-based design to the goal for that exercise.
