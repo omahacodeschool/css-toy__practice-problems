@@ -41,17 +41,18 @@ h3 {
   padding-bottom: 20px;
   background: #333333;
   padding-top: 5px;
+  padding-right: 25px;
 }
 
 p {
   padding-left: 20px;
   background: #333333;
-  padding-right: 25px;
 }
 
 a {
   display: inline-block;
   margin-top: 13px;
+  margin-bottom: 5px;
   background: black;
   padding: 3px;
   text-decoration: none;
@@ -63,5 +64,4 @@ a {
   background: #333333;
   color: yellow;
   font-size: 14px;
-  
 }
