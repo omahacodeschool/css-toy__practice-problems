@@ -1,1 +1,29 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+img {
+  border-radius: 3px;
+  margin-left: 10px;
+  height: 70px;
+  width: 70px;
+  float: left;
+  padding-right: 10px;
+}
+
+.main {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  
+  float: left;
+  padding-top: 10px;
+  width: 230px;
+}
+
+.headline {
+  font-weight: bold;
+  font-size: 12px; 
+  line-height: 1.2;
+  color: #352269;
+}
+
+.source {
+  padding-top: 3px;
+  font-size: 11px;
+  color: gray;
+}

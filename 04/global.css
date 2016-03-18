@@ -1,2 +1,50 @@
 /*font-family: Georgia, Times, "Times New Roman", serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+h1 {
+  text-align: center;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  margin-top: 20px;
+  color: #D46E01;
+  border-bottom: 1px;
+  border-style: double;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+p {
+  background-color: #EEEEEE;
+  padding: 20px;
+  font-weight: bold;
+  color: black;
+  margin: 20px;  
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bolder;
+  text-decoration: underline;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  margin-left: 20px;
+}
+
+ul {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 38px;
+    margin-top: 8px;
+    margin-bottom: 18px;
+    list-style-type: disc;
+    line-height: 20px;
+    list-style-position: outside;
+}
+
+ol {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 38px;
+    margin-top: 8px;
+    line-height: 20px;
+    list-style-type: decimal;
+    margin-right: 24px;
+    padding-top: 0px;
+}
