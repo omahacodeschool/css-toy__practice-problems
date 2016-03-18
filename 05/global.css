@@ -2,16 +2,18 @@
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 
 h1{
-  background: #7C1488;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  background: #881384;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
   font-size: 32px;
   color: white;
-  border-bottom: 1px solid #D941DD;
+  border-bottom: 1px solid #B816B6;
 }
 
 h2{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #323232;
   color: white;
   padding: 20px 20px 0px 20px;
@@ -19,6 +21,7 @@ h2{
 }
 
 #intro{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #323232;
   color: white;
   padding: 10px 20px 20px 20px;
@@ -26,13 +29,36 @@ h2{
 }
 
 h3{
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
   background: #323232;
   color: white;
-  padding: 20px;
   text-decoration: underline;
   text-transform: uppercase;
+  padding: 0 20px;
+  padding-top: 20px
+}
+
+p{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #323232;
+  color: white;
+  padding: 0 20px;
+  padding-top: 20px
 }
 
 
+a{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: black;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 2px 1px 2px 1px;
+  display: inline-block;
+  margin-bottom: 2px;
+}
 
+a:hover{
+  background: #888888
+}
 
