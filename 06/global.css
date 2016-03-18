@@ -5,9 +5,9 @@ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 h1 {
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
   color: white;
-  font-size: 22px;
+  font-size: 32px;
   text-align: center;
-  padding: 27px;
+  padding: 20px;
   border-bottom: solid #A840AE;
   border-width: 1px;
   background-color: #66296A;
@@ -16,7 +16,7 @@ h1 {
 #intro {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-  padding: 20px;
+  padding: 20px 20px 15px 20px;
   background-color: #262626;
   border-bottom: solid white;
   border-width: 1px;
@@ -24,6 +24,7 @@ h1 {
 
 h2{
   color: white;
+  font-size: 20px;
   text-align: center;
   padding-bottom: 13px;
 }
@@ -36,21 +37,24 @@ h2{
 /*just the month header itself*/
 h3{
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  font-size: 21px;
   text-decoration: underline;
   text-transform: uppercase;
 }
 
 .festival{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
   padding-top: 15px
 }
 
 a{
   color: white;
+  font-size: 16px;
   text-transform: uppercase;
   text-decoration: none;
   background-color: black;
-  padding: 2px;
-  margin-bottom: 2px;
+  padding: 4px;
+  margin-bottom: 4px;
   display: inline-block;
 }
