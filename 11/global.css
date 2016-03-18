@@ -4,8 +4,9 @@ img{
 }
 span{
   font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-  text-transform: lowercase;
+  text-transform: uppercase;
   float: right;
-  font-size: 12px;
-  margin: 8px 370px 0px 0px;
+  font-size: 10px;
+  font-weight: bold;
+  margin: 10px 370px 0px 0px;
 }
