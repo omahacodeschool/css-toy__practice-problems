@@ -1,1 +1,24 @@
 /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+body{
+  margin: 20px;
+  text-align: center;
+  font-family: "Helvetica Neue"; 
+}
+
+h1{
+  background: #5BAFFF;
+  color: white;
+  padding: 20px;
+  font-family: "Arial";
+  text-transform: uppercase;
+  font-weight: bold;
+
+}
+
+p{
+  background: #D0D8DA;
+  padding: 20px;
+  text-align: center;
+  font-family: "sans-serif"
+}
