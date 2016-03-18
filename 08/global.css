@@ -40,6 +40,7 @@ h1 {
   border-bottom: 1px solid white;
   background: #333333;
   padding-left: 20px;
+  padding-bottom: 13px;
 }
 
 .month h3 {
@@ -62,6 +63,7 @@ a {
   color: white;
   margin-right: 20px;
   margin-bottom: 2px;
+  margin-top: px;
 }
 
 .details {
@@ -73,12 +75,15 @@ a {
   background: white;
   font-weight: bold;
   font-size: 14px;
+  letter-spacing: .2px;
   border-bottom: 1px solid black;
+  padding-left: 1px;
 }
 
 .dates {
   background: #b3b3b3;
-  margin-bottom: 23px;
-  font-size: 15px;
-  
+  margin-bottom: 10px;
+  font-size: 14px;
+  padding-top: 2px;
+  padding-left: 2px;
 }
