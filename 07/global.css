@@ -60,8 +60,11 @@ a{
   text-transform: uppercase;
   text-decoration: none;
   background-color: black;
-  padding: 4px;
-  padding-bottom: 0px;
+  padding: 6px;
   margin-bottom: 4px;
   display: inline-block;
+}
+
+br {
+  padding-bottom: 0px;
 }
