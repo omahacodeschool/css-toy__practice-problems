@@ -1,2 +1,65 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+h1{
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  background: #881384;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 30px;
+  color: white;
+  border-bottom: 1px solid #B816B6;
+}
+
+h2{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  background: #323232;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+}
+
+#intro{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  background: #323232;
+  color: white;
+  padding: 10px 20px 20px 20px;
+  border-bottom: 1px solid white;
+}
+
+h3{
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  font-size: 22px;
+  background: #323232;
+  color: white;
+  text-decoration: underline;
+  text-transform: uppercase;
+  padding: 0 20px;
+  padding-top: 20px
+}
+
+.festival{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  background: #323232;
+  color: white;
+  padding: 0 20px;
+  padding-top: 13px
+}
+
+
+a{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  background: black;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 4px 3px 4px 3px;
+  display: inline-block;
+  margin-bottom: 2px;
+}
+
