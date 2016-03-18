@@ -1,7 +1,9 @@
-
+body {
+  background-color: #323232;
+}
 
 h1 {
-  background-color: #863D83;
+  background-color: #7F3A7D;
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
   color: #FFFFFF;
   text-align: center;
@@ -12,7 +14,6 @@ h1 {
 }
 
 h2 {
-  background-color: #303030;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
   text-align: center;
@@ -21,7 +22,6 @@ h2 {
 }
 
 #intro {
-  background-color: #303030;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFFFFF;
   padding: 8px 20px 20px 20px;
@@ -30,7 +30,6 @@ h2 {
 
 h3 {
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
-  background-color: #303030;
   color: #FFFFFF;
   font-weight: bold;
   font-size: 22px;
@@ -39,9 +38,26 @@ h3 {
   padding: 20px;
 }
 
+/*{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #FFFFFF;
+  font-size: 14px;
+  padding: 5px 2px 5px 2px;
+  margin-left: 20px; 
+  margin-bottom: 5px; 
+}*/
+
 a[href^="http"] {
-  
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #000000;
+  color: #FFFFFF;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 3px;
+  margin-left: 20px;
 }
+
+
 
 
 
