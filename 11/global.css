@@ -1,1 +1,11 @@
-/* Guess the font. Just get close--doesn't have to be perfect. */
+
+img{
+    padding: 5px 5px 5px 5px;
+}
+span{
+  font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  text-transform: lowercase;
+  float: right;
+  font-size: 12px;
+  margin: 8px 370px 0px 0px;
+}
