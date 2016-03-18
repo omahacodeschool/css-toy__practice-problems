@@ -1,1 +1,10 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+img{
+  width: 10%;
+  height: 10%;
+  border-radius: 6px;
+  float: left;
+}
+.clear{
+  clear: both;
+}
