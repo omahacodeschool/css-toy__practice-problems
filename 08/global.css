@@ -25,7 +25,6 @@ h1 {
 #intro p {
   font-size: 16px;
   padding: 8px 20px 20px 20px;
-  border-left: 1px solid red;
   border-bottom: 1px solid #CBCBCB;
   margin: 0;
 }
@@ -44,6 +43,7 @@ div.month h3 {
 }
 /*div Class Festival, parent*/
 div.festival {
+  padding-top: 15px;
 }
 /*div Class Festival, a*/
 div.festival a {
@@ -53,13 +53,14 @@ div.festival a {
   text-transform: uppercase;
   text-decoration: none;
   padding: 4px;
-  margin: 15px 0 3px 0;
-  display: inline-block;
+  margin-top: 15px 0 3px 0;
+  display: block;
 }
 /*div Class Details, parent / child (of Class Festival)*/
 div.details {
   color: #323232;
   font-size: 14px;
+  display: inline-block;
 }
 /*div Class Location, child (of Class Festival >> Details)*/
 div.location {
@@ -67,11 +68,13 @@ div.location {
   font-weight: bold;
   padding: 1px;
   margin-bottom: 1px;
+  display: block;
 }
 /*div Class Dates, child (of Class Festival >> Details)*/
 div.dates {
   background-color: #C1C1C1;
   padding: 1px;
+  display: block;
 }
 
 
