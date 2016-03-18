@@ -23,9 +23,26 @@ h2{
   text-align: center;
   padding-bottom: 13px;
 }
-
+/*actually a div class that includes month/link/info of all festivals*/
 .month{
   color: white;
   padding: 20px;
   background-color: #262626;
+}
+/*just the month header itself*/
+h3{
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.festival{
+  padding-top: 5px
+}
+
+a{
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: black;
+  padding: 2px;
 }
