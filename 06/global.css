@@ -5,7 +5,27 @@ h1 {
     color: white;
     text-align: center;
     padding: 27px;
-    border-bottom: solid hotpink;
+    border-bottom: solid #A840AE;
     border-width: 1px;
     background-color: #66296A;
+}
+
+#intro {
+  color: white;
+  padding: 20px;
+  background-color: #262626;
+  border-bottom: solid white;
+  border-width: 1px;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  padding-bottom: 13px;
+}
+
+.month{
+  color: white;
+  padding: 20px;
+  background-color: #262626;
 }
