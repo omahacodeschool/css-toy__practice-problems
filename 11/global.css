@@ -1,1 +1,18 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+
+div {
+  margin: 5px 0px 0px 5px;
+  display: inline-block;
+}
+
+img {
+  float: left;
+}
+span {
+  text-transform: uppercase;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8pt;
+  padding-left: 5px;
+  font-weight: 600;
+
+}
