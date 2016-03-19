@@ -1,1 +1,39 @@
 /* Actual font is unknown. Use any from past assignments. */
+/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+.box {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  float: left;
+  background-color: white;
+  margin-top: 10px;
+  padding-top: 0px;
+  padding-left: 13px;
+  padding-right: 2px;
+  max-width: 130px;
+  border-left-width: 1px;
+  border-left-color: black;
+  border-left-style: solid;
+}
+
+#first_box {
+
+  border-left-width: none;
+  border-left-color: none;
+  border-left-style: none;
+  padding-left: 9px;
+  
+  
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+
+.blurb {
+ 
+  font-size: 12px;
+  line-height: 125%
+}

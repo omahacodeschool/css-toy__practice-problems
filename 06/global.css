@@ -1,2 +1,108 @@
 /*font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+h1 {
+
+  color: white;
+  font-size: 30px;
+  background-color: purple;
+  text-align: center;
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px;
+  border color: blue;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+}
+
+h2 {
+
+  color: white;
+  font-size: 20px;
+  background-color: #332F2F;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  margin-right: 1px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h3 {
+  color: white;
+  font-size: 22px;
+  font-weight: bolder;
+  background-color: #332F2F;
+  text-align: left;
+  text-decoration: underline;
+  text-transform: uppercase;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  border: 0px;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif; 
+
+}
+
+#intro {
+  color: white;
+  background-color: #332F2F;
+  font-size: 16px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-bottom: 1px;
+  border-color: red;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}   
+
+.festival {
+
+  color: white;
+  font-weight: lighter;
+  font-size: 14px;
+  text-align: left;
+  padding-right:15px;
+  padding-top: 19px;
+  text-decoration: none;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.month {
+
+  color: white;
+  font-size: 22px;
+  font-weight: bolder;
+  background-color: #332F2F;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  border: 0px;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+}
+
+/*the links are in a little black rectangle with white type.*/
+a {
+
+  color: white;
+  font-size: 16px;
+  background-color: black;
+  text-align: left;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 3px;
+  padding-top: 1px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
