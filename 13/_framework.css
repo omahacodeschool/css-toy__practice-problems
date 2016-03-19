@@ -1,5 +1,5 @@
 body.show_goal::after{
-  background-image: url("Your Screenshot Goes Here");
+  background-image: url("file:///Users/Kyle/Code/css-toy__practice-problems/13/Screen%20Shot%202016-03-18%20at%204.52.35%20PM.png");
 }
 
 /* ------------------------------------------------------- */
@@ -54,7 +54,7 @@ table {
 }
 
 body.show_goal::after{
-  background: url("http://cl.ly/fROg/Screen%20Shot%202016-03-17%20at%207.49.37%20AM.png");
+  background: url("file:///Users/Kyle/Code/css-toy__practice-problems/13/Screen%20Shot%202016-03-19%20at%2012.03.42%20PM.png");
   background-repeat: no-repeat;
   content: " ";
   height: 800px;
