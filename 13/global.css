@@ -1,1 +1,105 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+
+body {
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.header {
+    padding: 10px 0 40px 100px;
+}
+
+.header p {
+    float: left;
+    padding-right: 10px;
+    font-size: 13px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#left_column {
+    float: left;
+    width: 190px;
+    padding-left: 20px;
+    border-right: 1px solid gray;
+}
+
+.title {
+    font-family: "book antiqua";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+    clear: both;
+    padding-bottom: 10px;
+}
+
+.author {
+    color: gray;
+    font-size: 11px;
+    clear: both;
+}
+
+.time {
+    font-size: 11px;
+    color: red;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.blurb {
+    font-size: 14px;
+    line-height:18px;
+    padding: 5px 0 10px 0;
+}
+
+.add_on {
+    font-size: 14px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+
+.topic {
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+#election_clip {
+    padding: 10px 10px 10px 0;
+    float: left;
+}
+
+.topic {
+    text-transform: uppercase;
+    padding-top: 10px;
+    float: left;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.secondary_title {
+    font-family: "book antiqua";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    clear: both;
+}
+
+#right_column {
+    padding-left: 20px;
+    float: left;
+    width: 375px;
+    text-align: center;
+}
+
+#photo_info {
+    text-align: left;
+    padding-left: 162px;
+    padding-bottom: 10px;
+}
+
+.tertiary_title {
+    font-size: 20px;
+}
+
+#holland {
+    padding-bottom: 10px;
+}
