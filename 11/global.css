@@ -6,8 +6,10 @@ img {
 }
 
 .icon_text {
+    display: inline-block;
     text-transform: uppercase;
     font-size: 10px;
     font-weight: bold;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 8px;
 }
