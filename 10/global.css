@@ -7,14 +7,23 @@
   background-color: white;
   margin-top: 10px;
   padding-top: 0px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 13px;
+  padding-right: 2px;
   max-width: 130px;
-  border-left-width: thin;
+  border-left-width: 1px;
   border-left-color: black;
-  border-left-style: solid
+  border-left-style: solid;
 }
 
+#first_box {
+
+  border-left-width: none;
+  border-left-color: none;
+  border-left-style: none;
+  padding-left: 9px;
+  
+  
+}
 
 h4 {
   font-size: 16px;
