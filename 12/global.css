@@ -1,1 +1,41 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+
+
+.links {
+  width: 450px;
+}
+
+.article {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: inline-block;
+  float: left;
+  width: 50%;
+  margin-top: 10px;
+
+
+}
+
+.article img {
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+
+.article a {
+  font-size: 9pt;
+  text-decoration: none;
+  color: #020E65;
+  font-weight: 600;
+  display: inline;
+
+}
+
+.article p {
+  font-size: 8pt;
+  margin-top: 5px;
+  color: #808080;
+}
+
+
+
