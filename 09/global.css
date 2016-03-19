@@ -4,21 +4,34 @@
 
 /*here I am commenting my way along. First I need to get the buttons looking right then I will worry about putting them side by side. I hope that is the right order.*/
 
-.button_container {
+.button {
 
   color: white;
-  font-size: ;
-  background-color: blue;
+  font-size: 10px;
+  text-transform: uppercase; ;
+  background-color: #A2B7C9;;
+  display: inline-block;
+  text-decoration: none;
   border-radius: 5px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin-right: 5px;
-  margin-left: 5px;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
   
-
+  padding: 10px 10px 10px 10px;
 
 }
+
+.left_button_container {
+    float: left;
+    margin: 0%;
+
+  }
+  
+.right_button_container {
+    margin: 0%;
+
+}
+
 
 
 
