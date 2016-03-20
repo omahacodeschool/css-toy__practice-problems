@@ -1,1 +1,24 @@
 /* Actual font is unknown. Use any from past assignments. */
+
+.box {
+    color: red;
+    display: inline-block;
+    border-left: 1px solid red;
+    margin-top: 10px;
+    padding-left: 12px;
+    width: 130px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    float: left;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+
+.blurb {
+    font-size: 12px;
+    padding-right: 5px;
+    line-height: 15px;
+}
