@@ -1,1 +1,82 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+body {
+  max-width: 970px;
+}
+
+.header {
+  width: 970px;
+  display: inline-block;
+
+}
+
+.settings {
+  float: right;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.button_container {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 15px 7px 0px 10px;
+  float: right;
+
+}
+
+.button {
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 8pt;
+  background-color: #6288A5;
+  padding: 10px 8px 10px 8px;
+  border-radius: 4px;
+  font-weight: 900;
+  letter-spacing: 0px;
+}
+
+.nav_left {
+  margin: 15px 6px 0px 10px;
+  display: inline-block;
+}
+
+.nav_left img {
+  float: left;
+}
+.nav_left span {
+  text-transform: uppercase;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8pt;
+  padding-left: 5px;
+  font-weight: 600;
+
+}
+
+.main_heading {
+  width: 970px;
+  }
+
+.top_right_ad {
+  float: right;
+}
+
+.top_left_ad {
+  float: left;
+}
+
+#main_logo {
+  text-align: center;
+  display: inline-block;
+  width: 60%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+

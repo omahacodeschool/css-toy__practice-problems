@@ -1,5 +1,5 @@
 body.show_goal::after{
-  background-image: url("Your Screenshot Goes Here");
+  background-image: url("NYT_Sunday.png");
 }
 
 /* ------------------------------------------------------- */
@@ -54,14 +54,14 @@ table {
 }
 
 body.show_goal::after{
-  background: url("http://cl.ly/fROg/Screen%20Shot%202016-03-17%20at%207.49.37%20AM.png");
+  background: url("NYT_Sunday.png");
   background-repeat: no-repeat;
   content: " ";
-  height: 800px;
-  width: 430px;
+  height: 303px;
+  width: 970px;
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 10px;
+  left: 10px;
 }
 
 body.show_goal.see_through::after{
