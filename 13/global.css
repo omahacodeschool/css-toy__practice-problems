@@ -47,6 +47,7 @@ img{
   margin:10px 0px 0px 10px;
   border: 1px solid black;
   padding: 0px 0px 0px 10px;
+  margin-bottom: 39px;
 }
 #add_logo{
   object-fit: cover;
@@ -65,9 +66,34 @@ img{
 }
 .column_left{
   float: left;
-  width: 180px;
+  width: 190px;
   margin-left: 10px;
+  border-right: 1px solid black;
 }
+.headline_text{
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 28px;
+}
+.author{
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 10px;
+  color: #8A878A;
+  margin: 3px 0px 3px 0px;
+}
+.time{
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 10px;
+  color: red;
+  margin-bottom: 2px;
+}
+.content{
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 14px;
+}
+
 
 
 
