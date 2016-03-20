@@ -52,6 +52,15 @@ body {
 
 .main_heading {
   width: 970px;
+  margin-top: 10px;
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 2px solid #000;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(0, 0, 0);
+  position: relative;
+  min-height: 90px;
+  padding: 8px 0;
   }
 
 .top_right_ad {
@@ -62,11 +71,56 @@ body {
   float: left;
 }
 
-#main_logo {
+.main_heading_center {
   text-align: center;
   display: inline-block;
   width: 60%;
   }
+
+.editions li {
+  left: 50%;
+  font-family: "nyt-franklin",arial,helvetica,sans-serif;
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  display: inline-block;
+  line-height: 0.625rem;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.editions li a {
+    color: #6f6f6f;
+    text-decoration: none;
+}
+
+.editions li a#spanish {
+  lang: "ES";
+}
+
+.editions li:first-child {
+  font-weight: 900;
+}
+
+.editions {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border: 1px solid #e2e2e2;
+    border-bottom: none;
+    height: 11px;
+    padding: 4px 9px 0;
+    background-color: #fff;
+    position: absolute;
+    border-bottom: none;
+    height: 11px;
+    padding: 4px 9px 0;
+    background-color: #fff;
+    top: -16px;
+    left: 50%;
+    margin-left: -103px;
+}
+
+
+
 
 
 
