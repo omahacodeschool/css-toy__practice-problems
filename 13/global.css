@@ -1,1 +1,85 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+/*Font-Family: Times New Roman, Times*/
+/*Font-Family: font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+.left_column {
+  float:left;
+
+}
+.article {
+
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+
+.section_header {
+  font-family: "Times New Roman", Times;
+  color: black; 
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top-width: 1px;
+  border-top-color: gray;
+
+
+}
+
+.article_headline {
+  font-family: "Times New Roman", Times;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: left;
+  padding-bottom: 2px;
+
+}
+
+.byline {
+  color: gray;
+  font-size: 12px;
+
+
+}
+
+.article_teaser {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 150%;
+
+}
+
+.editorial_links {
+  font-family: "Times New Roman", Times;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: left;
+  padding-bottom: 2px;
+  padding-left: 10px;
+
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+
+    color: black;
+    font-size: 14px;
+    list-style-type: disc;
+    padding-bottom: 5px;
+}
+
+li {
+  padding-bottom: 5px;
+
+}
