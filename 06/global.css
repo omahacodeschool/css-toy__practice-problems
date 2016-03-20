@@ -5,6 +5,7 @@ body {
 
 #intro {
   background-color: #39362D;
+
 }
 
 h1 {
@@ -20,7 +21,14 @@ h1 {
   font-size: 20px;
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 0px;
+  padding-bottom: 9px;
 
  } 
 
+p {
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-bottom: 1px solid white;
+}
