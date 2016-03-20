@@ -1,2 +1,26 @@
-font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: white;
+}
+
+#intro {
+  background-color: #39362D;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+  background-color: purple;
+  border-bottom: 1px solid white;
+ }
+ 
+ h2 {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 0px;
+
+ } 
+
