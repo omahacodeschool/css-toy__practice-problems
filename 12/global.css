@@ -1,1 +1,46 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+
+.science_item {
+  max-width: 146px;
+  display: inline-block;
+  margin-right: 0px;
+  float: left;
+}
+
+.science_item_headline {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 12px;
+font-color: black;
+font-weight: bold;
+line-height: 125%;
+padding-top: 10px;
+padding-bottom: 4px;
+
+/*float: left;*/
+
+}
+
+
+.science_item_source_credit {
+font-family: "Arial", Helvetica, Helvetica Neue,  sans-serif;
+font-size: 11px;
+font-color: gray;
+
+
+}
+
+#first {
+ margin-left: 3px; 
+
+}
+
+img {
+
+  float:left;
+  /*position:relative;*/
+  margin-top: 8px;
+  margin-left: 5px;
+  height: 70px;
+  width: 70px;
+  margin-right:10px;
+}
