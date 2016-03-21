@@ -1,1 +1,26 @@
-/* Guess the font. Just get close--doesn't have to be perfect. */
+body{
+  display: inline-block;
+}
+
+.article_link{
+  font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+  float: left;
+  height: 80px;
+  width: 80px;
+  padding: 10px;
+  border-radius: 14px;
+}
+
+.article_title{
+  color: #171717;
+  font-weight: bold;
+  padding-top: 10px;
+  
+}
+
+.website{
+  color: #B0B0B0;
+}
