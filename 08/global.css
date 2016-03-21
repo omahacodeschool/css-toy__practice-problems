@@ -7,6 +7,28 @@ div {
     color: white;
 }
 
+.festival {
+  padding-left: 20px;
+}
+
+.details {
+  font-size: 15px;
+  display: inline-block;
+}
+
+.location {
+  color: #878580;
+  background-color: #FEFEFE;
+  padding-right: 1px;
+  padding-left: 2px;
+}
+
+.dates {
+  color: #888685;
+  background-color: #DEDDC3;
+  margin-top: 2px;
+}
+
 h1 {
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif; 
   color: white;
@@ -39,4 +61,17 @@ p {
   padding-bottom: 20px;
   padding-left: 20px;
   border-bottom: 1px solid white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: black;
+  display: inherit;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 3px;
+  margin-top: 14px;
+  margin-right: 20px;
 }
