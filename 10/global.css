@@ -1,1 +1,22 @@
-/* Actual font is unknown. Use any from past assignments. */
+/*parent*/
+.box{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #000000;
+  float: left;
+  width: 85px;
+  padding: 2px 9px 5px 0;
+  margin: 5px 8px 0px 5px;
+  display: inline-block;
+  border-right: 1px solid #C1C1C1;
+}
+/*title*/
+h4{
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: -0.5px;
+  padding-bottom: 4px;
+}
+/*body text*/
+.blurb{
+  font-size: 8.5px;
+}

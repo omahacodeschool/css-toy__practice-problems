@@ -1,2 +1,17 @@
-/* Actual font is unknown. Use this--it's close enough: */
-/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+div.button_container {
+  background-color: #5386A1;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px;
+  margin: 8px 0 8px 8px;
+  border-radius: 4px;
+  float: left;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}

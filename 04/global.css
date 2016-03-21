@@ -1,2 +1,46 @@
-/*font-family: Georgia, Times, "Times New Roman", serif;
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+
+h1 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  color: #BA5F20;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 20px 20px 20px 20px;
+  border-bottom: 1px solid #BA5F20;
+}
+
+p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #262626;
+  background-color: #EAEAEA;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 20px;
+  margin: 20px;
+}
+
+h2 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  color: #262626;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin: 20px 20px 10px 20px;
+}
+
+ul li {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #262626;
+  font-size: 16px;
+  list-style: inside disc;
+  margin: 0px 20px 4px 20px;
+}
+
+ol li {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #262626;
+  font-size: 16px;
+  list-style: inside decimal;
+  margin: 0px 20px 4px 20px;
+}
