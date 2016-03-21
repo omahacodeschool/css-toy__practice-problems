@@ -119,6 +119,7 @@ body {
     border-bottom: 1px solid #e2e2e2;
     position: relative;
     min-height: 35px;
+    margin-left: 9px;
 
 
   }
@@ -147,7 +148,11 @@ body {
   color: #333;
   text-decoration: none;
 
+}
 
+.image-under-nav {
+  margin-top: 10px;
+  margin-left: 9px;
 }
 
 
