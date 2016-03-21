@@ -1,1 +1,13 @@
-/* Guess the font. Just get close--doesn't have to be perfect. */
+.icon_text{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 10px;
+  padding-top: 8px;
+  display: inline-block;
+}
+
+img{
+  float: left;
+  padding: 5px;
+}
