@@ -55,12 +55,10 @@ body {
   margin-top: 10px;
   border-top: 1px solid #e2e2e2;
   border-bottom: 2px solid #000;
-  border-bottom-width: 2px;
-  border-bottom-style: solid;
-  border-bottom-color: rgb(0, 0, 0);
   position: relative;
   min-height: 90px;
   padding: 8px 0;
+  margin-left: 9px;
   }
 
 .top_right_ad {
@@ -74,7 +72,7 @@ body {
 .main_heading_center {
   text-align: center;
   display: inline-block;
-  width: 60%;
+  width: 62%;
   }
 
 .editions li {
@@ -86,6 +84,7 @@ body {
   line-height: 0.625rem;
   font-weight: 400;
   font-style: normal;
+
 }
 
 .editions li a {
@@ -106,19 +105,50 @@ body {
     border-top-left-radius: 5px;
     border: 1px solid #e2e2e2;
     border-bottom: none;
-    height: 11px;
-    padding: 4px 9px 0;
-    background-color: #fff;
+    background-color: #ffffff;
     position: absolute;
-    border-bottom: none;
     height: 11px;
-    padding: 4px 9px 0;
-    background-color: #fff;
+    padding: 3px 5px 1px;
     top: -16px;
     left: 50%;
     margin-left: -103px;
 }
 
+.navigation {
+    width: 970px;
+    border-bottom: 1px solid #e2e2e2;
+    position: relative;
+    min-height: 35px;
+
+
+  }
+
+.navigation-bar {
+    font-family: "nyt-franklin",arial,helvetica,sans-serif;
+    font-size: 0.75rem;
+    position: absolute;
+    height: 15px;
+    vertical-align: center;
+    margin-top: 4px;
+    margin-left: 90px;
+
+}
+
+.navigation li {
+    display: inline-block;
+    line-height: 0.625rem;
+    font-weight: 400;
+    padding: 7px 5px 7px 4px;
+
+}
+
+.navigation li a {
+  display: inline-block;
+  color: #333;
+  text-decoration: none;
+
+
+}
 
 
 
