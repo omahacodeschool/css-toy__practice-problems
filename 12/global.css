@@ -1,1 +1,28 @@
 /* Guess the font. Just get close--doesn't have to be perfect. */
+img {
+  width: 19%;
+  height: 19%;
+  border-radius: 6px;
+  float: left;
+}
+.box{
+  float: left;
+  padding: 11px 11px 0px 11px;
+  display: inline-block;
+}
+.text_stuff{
+  font-family: "Avenir Next Medium", Helvetica, Arial, sans-serif;
+  width: 300px;
+  line-height: 1.4;  
+}
+.clear{
+  clear: both;
+}
+h4 {
+  font-size: 12px;
+  font-weight: 600;
+}
+.news_source{
+  font-size: 12px;
+  color:#858386;
+}

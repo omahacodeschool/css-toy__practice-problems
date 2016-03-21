@@ -1,2 +1,21 @@
 /* Actual font is unknown. Use this--it's close enough: */
 /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+.button_container{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 10px;
+    text-align: center;
+    background-color: #557592;
+    padding: 10px 10px;
+    margin: 9px 3px;
+    border-radius: 3px;
+    float: left;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+/*width will have to be a column thing*/
