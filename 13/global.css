@@ -4,23 +4,34 @@
 
 .left_column {
   float:left;
+  max-width: 190px;
+  margin-right: 5px;
 
+}
+
+.right_column {
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: gray;
+  padding-left: 5px;
+  max-width: 195px;
+  margin-left: 195px;
 }
 .article {
 
   padding-left: 10px;
-  padding-bottom: 5px;
+  padding-bottom: 15px;
 }
 
 
 .section_header {
   font-family: "Times New Roman", Times;
   color: black; 
-  font-weight: bold;
-  font-size: 18px;
+  font-weight: bolder;
+  font-size: 16px;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   border-top-width: 1px;
   border-top-color: gray;
 
@@ -31,7 +42,7 @@
   font-family: "Times New Roman", Times;
   color: black;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
   text-align: left;
   padding-bottom: 2px;
 
@@ -40,14 +51,17 @@
 .byline {
   color: gray;
   font-size: 12px;
+  padding-bottom: 2px;
+  padding-top: 2px;
 
 
 }
 
 .article_teaser {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: normal;
-  line-height: 150%;
+  line-height: 110%;
+  color: black;
 
 }
 
@@ -55,7 +69,7 @@
   font-family: "Times New Roman", Times;
   color: black;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 11px;
   text-align: left;
   padding-bottom: 2px;
   padding-left: 10px;
@@ -73,13 +87,61 @@ a:hover {
 
 ul {
 
-    color: black;
-    font-size: 14px;
-    list-style-type: disc;
+   
+    
+    
     padding-bottom: 5px;
 }
 
 li {
+  color: black;
   padding-bottom: 5px;
+  font-size: 13px;
+  list-style-type: disc;
+}
 
+img {
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: gray;
+  padding-left: 5px;
+  max-width: 195px;
+  margin-left: 0px;
+}
+
+p {
+  font-size: 12px;
+  font-family: "Times New Roman", Times;
+
+
+}
+.footer {
+  
+  max-width: 195px;
+  margin-right: 5px;
+  margin_top: 10px;
+  padding-top: 10px;
+  border-top: 5px;
+
+}
+
+#second {
+  padding-left: 0px;
+  padding-bottom: 10px;
+
+}
+
+#footer_left {
+  float:left;
+  margin-left: 5px;
+
+}
+
+#footer_right {
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: gray;
+  padding-left: 5px;
+  max-width: 195px;
+  margin-left: 195px;
 }

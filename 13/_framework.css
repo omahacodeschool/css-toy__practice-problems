@@ -64,6 +64,6 @@ body.show_goal::after{
   left: 0;
 }
 
-body.show_goal.see_through::after{
+body.show_goal.see_through::after{file:///
   opacity: 0.6;
 }
